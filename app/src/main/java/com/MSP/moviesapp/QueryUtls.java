@@ -96,12 +96,7 @@ public  class QueryUtls {
         catch (JSONException e){}
 
 
-
-
-
-
-
-    return null ;}
+    return new MovieDetails(name,overView,0,0) ;}
 
 
 
